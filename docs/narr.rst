@@ -37,7 +37,7 @@ E.g., you could add something like the following to the
 
    <p> These docs are for version <code>1.0</code> of this package.  For
    the latest version, see:
-   <a href="http://frobnaz.readthedocs.org/en/latest/{{ pagename }}{ file_suffix }}">this page</a>.</p>
+   <a href="http://frobnaz.readthedocs.org/en/latest/{{ pagename }}{{ file_suffix }}">this page</a>.</p>
    
 So for, this approach doesn't require any extension:  it works fine in vanilla
 Sphinx.
