@@ -25,7 +25,7 @@ setup(name='pylons_sphinx_latesturl',
       description='Sphinx extension: generate "latest" URL for versioned docs',
       long_description=README + '\n\n' +  CHANGES,
       classifiers=[
-        "Development Status :: 5 - Production/Stable",
+        "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",
         "Programming Language :: Python",
         "Programming Language :: Python :: 2.6",
