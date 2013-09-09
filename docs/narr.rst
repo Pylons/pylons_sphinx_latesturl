@@ -1,9 +1,8 @@
 :mod:`pylons_sphinx_latesturl`
 ===============================
 
-This package is a :mod:`Sphinx` extension:  it adds a function to the 
-Sphinx template namespace which can be used to compute the "latest" URL
-for a versioned document.
+This package is a :mod:`Sphinx` extension:  it adds a ``latest_url``
+key to the Sphinx template namespace for use in for a versioned document sets.
 
 Versioned Documentation
 -----------------------
