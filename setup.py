@@ -21,7 +21,7 @@ README = open(os.path.join(here, 'README.rst')).read()
 CHANGES = open(os.path.join(here, 'CHANGES.rst')).read()
 
 setup(name='pylons_sphinx_latesturl',
-      version='0.1.1',
+      version='0.2',
       description='Sphinx extension: generate "latest" URL for versioned docs',
       long_description=README + '\n\n' +  CHANGES,
       classifiers=[
